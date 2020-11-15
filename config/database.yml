@@ -22,6 +22,6 @@ test:
 
 production:
   <<: *default
-  database: rails_aws_production
-  username: rails_aws
+  database: sample_production
+  username: superuser
   password: 
